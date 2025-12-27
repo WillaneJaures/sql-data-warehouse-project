@@ -97,4 +97,4 @@ This project is licensed under the [MIT License].(LICENSE).
 Hi there! I'm **Willane Jaures Saboubanga**, I'm a Data Engineer looking for new challenges
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:linkedin.com/in/willane-jaures-saboubanga-07304b216)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willane-jaures-saboubanga-07304b216/)
